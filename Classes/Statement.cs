@@ -15,3 +15,4 @@ namespace DigiBank.Classes {
         public double amount {get; private set;}
     }
 }
+ 
